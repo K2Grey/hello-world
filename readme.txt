@@ -1,2 +1,3 @@
 "Bonjour!"
 
+"I like PHP :)"
