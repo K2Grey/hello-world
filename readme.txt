@@ -1,3 +1,0 @@
-"Bonjour!"
-
-"I like PHP :)"
