@@ -12,7 +12,9 @@ require_once __DIR__ . '/../vendor/autoload.php';
 </head>
 <body>
 
-<?= \App\Wcs\Hello::talk() ?>
+<p><?= \App\Wcs\Hello::talk() ?></p>
+
+<p><?= \HelloWorld\SayHello::world() ?></p>
 
 </body>
 </html>
